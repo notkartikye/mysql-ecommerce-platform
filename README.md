@@ -1,4 +1,4 @@
-# Apni Dukan
+# E-Commerce Platform Database Management System
 This project is an eCommerce platform built using MySQL for the database and Streamlit for the frontend. The platform allows users to browse products, add items to their cart, and make purchases. The backend is designed to handle various eCommerce functionalities, including product management, user management, and order processing.
 
 ## Features
