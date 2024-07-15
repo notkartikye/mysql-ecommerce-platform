@@ -19,14 +19,14 @@ This project is an eCommerce platform built using MySQL for the database and Str
 ## Instructions
 1. Clone the repository:
 
-    ```
+    ```bash
     git clone https://github.com/notkartikye/mysql-ecommerce-platform.git
     cd mysql-ecommerce-platform
     ```
     
 2. Install MySQL for Python by running:
 
-    ```
+    ```bash
     pip install mysql-connector-python
     ```
 
@@ -36,7 +36,7 @@ This project is an eCommerce platform built using MySQL for the database and Str
     pip install streamlit
     ```
 5. Enter queries using a GUI by running:
-    ```
+    ```bash
     cd UI
     streamlit run main.py
     ```
